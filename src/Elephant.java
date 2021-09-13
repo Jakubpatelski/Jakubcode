@@ -58,7 +58,7 @@ public class Elephant {
     }
     */
 
-    // print method
+    // print method aa
 
     public void print () {
         System.out.println("The elephant is called " + getName() + ". Its weights is " + getWeight() + " kilograms. Its stamina value is " + getStamina() + ".");
